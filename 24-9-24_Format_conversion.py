@@ -6,4 +6,3 @@ def check_str_palindrome(str):
         print(f"{str} IS not a palindrome :(")
         
 check_str_palindrome("racecar")
-check_str_palindrome("xo1ox1oo")
