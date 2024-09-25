@@ -6,3 +6,8 @@ def check_str_palindrome(str):
         print(f"{str} IS not a palindrome :(")
         
 check_str_palindrome("racecar")
+check_str_palindrome("A")
+check_str_palindrome("BA")
+check_str_palindrome("ABA")
+check_str_palindrome("ABBA")
+#comment
