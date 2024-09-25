@@ -1,8 +1,8 @@
 # Palindrome check
 def check_str_palindrome(str):
     if str == str[::-1]:
-        print(f"YAY!, string {str} is Palindrome!!")
+        print(f"string provided : {str}, is a palindrome !")
     else:
-        print(f"Sorry, string {str} is not a Palindrome :(")
+        print(f"{str} is not a palindrome :(")
         
 check_str_palindrome("racecar")
